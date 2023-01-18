@@ -1,0 +1,30 @@
+2023-01-17 03:00:28 error: [Error] Call to undefined method App\Controller\AssetsController::addPlugin() in /home2/premierh/asset.premierhotelibadan.com/src/Controller/AppController.php on line 47
+Stack Trace:
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/cakephp/src/Controller/Controller.php:229
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/TestCommand.php:348
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/TestCommand.php:255
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/TestCommand.php:130
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/ControllerCommand.php:207
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/ControllerCommand.php:154
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/ControllerCommand.php:64
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/AllCommand.php:115
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/cakephp/src/Console/BaseCommand.php:189
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/cakephp/src/Console/CommandRunner.php:334
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/cakephp/src/Console/CommandRunner.php:172
+- /home2/premierh/asset.premierhotelibadan.com/bin/cake.php:12
+
+2023-01-17 03:00:38 error: [Error] Call to undefined method App\Controller\AssetsController::addPlugin() in /home2/premierh/asset.premierhotelibadan.com/src/Controller/AppController.php on line 47
+Stack Trace:
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/cakephp/src/Controller/Controller.php:229
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/TestCommand.php:348
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/TestCommand.php:255
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/TestCommand.php:130
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/ControllerCommand.php:207
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/ControllerCommand.php:154
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/ControllerCommand.php:64
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/bake/src/Command/AllCommand.php:115
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/cakephp/src/Console/BaseCommand.php:189
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/cakephp/src/Console/CommandRunner.php:334
+- /home2/premierh/asset.premierhotelibadan.com/vendor/cakephp/cakephp/src/Console/CommandRunner.php:172
+- /home2/premierh/asset.premierhotelibadan.com/bin/cake.php:12
+
